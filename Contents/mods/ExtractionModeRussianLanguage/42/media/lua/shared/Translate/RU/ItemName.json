@@ -1,0 +1,17 @@
+{
+    "ExtractionMode.ExtractionFlareGun": "Эвакуационный сигнальный пистолет",
+    "ExtractionMode.FlareRound": "Эвакуационный сигнальный патрон",
+    "ExtractionMode.InfectionCure": "Экспериментальное лекарство от инфекции Нокс",
+    "ExtractionMode.SpecialDocuments": "Специальные документы",
+    "ExtractionMode.CouriersLedger": "Журнал курьера",
+    "ExtractionMode.MedicalTransportCooler": "Медицинский термоконтейнер",
+    "ExtractionMode.TransferManifest": "Транспортная накладная",
+    "ExtractionMode.ResearchersNotes": "Заметки исследователя",
+    "ExtractionMode.QuarantineMedicalRecords": "Карантинные медицинские записи",
+    "ExtractionMode.EvacuationRecords": "Записи об эвакуации",
+    "ExtractionMode.MedicalTransferRecords": "Записи о медицинском переводе",
+    "ExtractionMode.PatientZeroSample": "Образец нулевого пациента",
+    "ExtractionMode.CommercialPropertyRecords": "Записи о коммерческой недвижимости",
+    "ExtractionMode.GrandOhioMallPlans": "Планы торгового центра «Гранд-Огайо»",
+    "ExtractionMode.VaccineSample": "Образец вакцины"
+}

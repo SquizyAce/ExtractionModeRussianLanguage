@@ -1,0 +1,17 @@
+version=1
+title=Extraction Mode Russian Language
+description=[h1]Extraction Mode Russian Language[/h1]
+description=Отдельный русификатор для Extraction Mode (Build 42).
+description=
+description=[b]Перевод на 100% выполнен нейросетью.[/b]
+description=
+description=Переведены интерфейс, контекстные меню, предметы, подсказки, настройки песочницы, улучшения убежища, бартер, задания, диалоги и сюжетная кампания.
+description=
+description=[b]Обязательно требуется оригинальный мод:[/b]
+description=https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275
+description=
+description=Включите оба мода. Русский язык должен быть выбран в настройках Project Zomboid.
+description=
+description=Версия переведённого оригинала: Extraction Mode 0.8.70.
+tags=Translation
+visibility=public

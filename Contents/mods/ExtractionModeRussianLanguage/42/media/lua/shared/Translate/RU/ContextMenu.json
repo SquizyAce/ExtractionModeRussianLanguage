@@ -1,0 +1,14 @@
+{
+    "ContextMenu_ExtractionMode_AdministerCure": "Применить экспериментальное лекарство от инфекции",
+    "ContextMenu_ExtractionMode_Board": "Сесть в эвакуационный вертолёт",
+    "ContextMenu_ExtractionMode_Boarding": "Посадка в эвакуационный вертолёт...",
+    "ContextMenu_ExtractionMode_CancelReady": "Отменить готовность к рейду",
+    "ContextMenu_ExtractionMode_ChooseDestination": "Выбрать место рейда...",
+    "ContextMenu_ExtractionMode_Contacts": "Контакты...",
+    "ContextMenu_ExtractionMode_EquipFlare": "Взять сигнальный пистолет (E%1)",
+    "ContextMenu_ExtractionMode_FlareReady": "Сигнальный пистолет готов: цельтесь и стреляйте (E%1)",
+    "ContextMenu_ExtractionMode_HideoutUpgrades": "Улучшения убежища...",
+    "ContextMenu_ExtractionMode_Ready": "Готов к рейду",
+    "ContextMenu_ExtractionMode_SignalVaccineHelicopter": "Вызвать вертолёт за вакциной",
+    "ContextMenu_ExtractionMode_VaccineHelicopterInbound": "Вертолёт за вакциной прибудет через %1 с"
+}
