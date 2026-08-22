@@ -1,7 +1,7 @@
 name=Extraction Mode Russian Language
 id=ExtractionModeRussianLanguage
 description=Русская локализация Extraction Mode для Build 42. Перевод на 100% выполнен нейросетью. Требуется оригинальный мод Extraction Mode.
-modversion=1.0.0
+modversion=1.0.1
 versionMin=42.20
 require=ExtractionMode
 poster=poster.png
