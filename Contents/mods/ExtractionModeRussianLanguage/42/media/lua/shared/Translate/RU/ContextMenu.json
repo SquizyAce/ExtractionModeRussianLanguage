@@ -10,5 +10,6 @@
     "ContextMenu_ExtractionMode_HideoutUpgrades": "Улучшения убежища...",
     "ContextMenu_ExtractionMode_Ready": "Готов к рейду",
     "ContextMenu_ExtractionMode_SignalVaccineHelicopter": "Вызвать вертолёт за вакциной",
-    "ContextMenu_ExtractionMode_VaccineHelicopterInbound": "Вертолёт за вакциной прибудет через %1 с"
+    "ContextMenu_ExtractionMode_VaccineHelicopterInbound": "Вертолёт за вакциной прибудет через %1 с",
+    "ContextMenu_ExtractionMode_GarageControls": "Управление гаражом..."
 }

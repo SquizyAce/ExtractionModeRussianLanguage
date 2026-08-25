@@ -13,6 +13,6 @@ description=https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275
 description=
 description=Включите оба мода. Русский язык должен быть выбран в настройках Project Zomboid.
 description=
-description=Версия переведённого оригинала: Extraction Mode 0.8.70. Главное окно и выбор места рейда адаптированы под длину русского текста.
+description=Версия переведённого оригинала: Extraction Mode 0.8.74. Переведены гараж, автомобильные рейды, позднее присоединение и отказ от участия. Интерфейс адаптирован под длину русского текста.
 tags=Build 42;Language/Translation
 visibility=public
